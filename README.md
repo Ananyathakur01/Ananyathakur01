@@ -11,6 +11,7 @@
 - Data Science & Machine Learning
 - Sketcing & 2D-Digital Arts
 - Continuous learning & experimentation
+- Learning Japanese
 ----
 
 - 🔭 I’m currently working on improving my Github portfolio
