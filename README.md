@@ -14,6 +14,6 @@
 ------
 
 - 🔭 I’m currently working on improving my Github portfolio
-- 📫 How to reach me: ananyadeepthakur@gmail.com / naptimesensaii01@gmail.com
+- 📫 How to reach me: ananyadeepthakur@gmail.com 
 
 -->
