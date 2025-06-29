@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ananya Thakur
 
-- 🔍 I’m an aspiring **Data Science** enthusiast currently building my skills in **Python**, data analysis libraries and learning the fundamentals of **Machine learning**.
+- 🔍 I’m an aspiring **Data Science** enthusiast currently building my skills in **Python**, Data Analysis libraries and learning the fundamentals of **Machine learning**.
 ------
 ### 💼 Tools & Technologies
 - Python, Jupyter Notebooks, Google Collab
